@@ -1,0 +1,6 @@
+transaction_id,account_id,amount,transaction_type,transaction_date,status
+T1001,A1001,5000,Deposit,2026-06-01,Success
+T1002,A1001,2000,Withdrawal,2026-06-02,Success
+T1003,A1002,10000,Deposit,2026-06-03,Success
+T1004,A1003,500,Withdrawal,2026-06-04,Failed
+T1005,A1004,15000,Deposit,2026-06-05,Success

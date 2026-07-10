@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,balance,status,created_date,branch_name
+A1001,C101,Savings,50000.75,Active,2026-01-15,Hyderabad
+A1002,C102,Current,75000.50,Active,2026-02-10,Bangalore
+A1003,C103,Savings,12000.00,Inactive,2025-11-20,Chennai
+A1004,C104,Current,98000.25,Active,2026-03-05,Mumbai
+A1005,C105,Savings,25000.75,Active,2026-04-12,Delhi

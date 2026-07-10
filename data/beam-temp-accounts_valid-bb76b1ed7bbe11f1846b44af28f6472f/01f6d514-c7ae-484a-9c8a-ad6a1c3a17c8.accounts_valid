@@ -1,0 +1,5 @@
+{'account_id': 'A1001', 'customer_id': 'C101', 'account_type': 'Savings', 'balance': 50000.75, 'status': 'Active', 'created_date': '2026-01-15', 'branch_name': 'Hyderabad'}
+{'account_id': 'A1002', 'customer_id': 'C102', 'account_type': 'Current', 'balance': 75000.5, 'status': 'Active', 'created_date': '2026-02-10', 'branch_name': 'Bangalore'}
+{'account_id': 'A1003', 'customer_id': 'C103', 'account_type': 'Savings', 'balance': 12000.0, 'status': 'Inactive', 'created_date': '2025-11-20', 'branch_name': 'Chennai'}
+{'account_id': 'A1004', 'customer_id': 'C104', 'account_type': 'Current', 'balance': 98000.25, 'status': 'Active', 'created_date': '2026-03-05', 'branch_name': 'Mumbai'}
+{'account_id': 'A1005', 'customer_id': 'C105', 'account_type': 'Savings', 'balance': 25000.75, 'status': 'Active', 'created_date': '2026-04-12', 'branch_name': 'Delhi'}

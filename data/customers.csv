@@ -1,0 +1,7 @@
+customers.csv
+customer_id,customer_name,age,city,phone,email
+C101,Akki,24,Hyderabad,9876543210,akki@gmail.com
+C102,Ravi,26,Bangalore,9876543211,ravi@gmail.com
+C103,Sam,30,Chennai,9876543212,sam@gmail.com
+C104,John,28,Mumbai,9876543213,john@gmail.com
+C105,David,35,Delhi,9876543214,david@gmail.com
