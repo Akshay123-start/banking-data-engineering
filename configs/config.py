@@ -7,3 +7,5 @@ DATASET_ID = "bankings_bronze"
 # Batch Information
 BATCH_ID = "batch_001"
 TABLE_ID = "accounts"
+CUSTOMER_TABLE_ID = "customers"
+TRANSACTION_TABLE_ID = "transactions"
